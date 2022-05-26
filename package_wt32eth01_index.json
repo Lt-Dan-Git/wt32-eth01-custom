@@ -2,9 +2,9 @@
   "packages": [
     {
       "name": "wt32eth01",
-      "maintainer": "Espressif Systems",
-      "websiteURL": "https://github.com/espressif/arduino-esp32",
-      "email": "hristo@espressif.com",
+      "maintainer": "Daniel",
+      "websiteURL": "https://github.com/Lt-Dan-Git/wt32-eth01-custom",
+      "email": "-",
       "help": {
         "online": "http://esp32.com"
       },
