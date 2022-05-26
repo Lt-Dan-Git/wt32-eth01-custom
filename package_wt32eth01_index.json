@@ -4,7 +4,7 @@
       "name": "wt32eth01",
       "maintainer": "Daniel",
       "websiteURL": "https://github.com/Lt-Dan-Git/wt32-eth01-custom",
-      "email": "-",
+      "email": "dani.heger@web.de",
       "help": {
         "online": "http://esp32.com"
       },
@@ -14,7 +14,7 @@
           "architecture": "esp32",
           "version": "1.0.0",
           "category": "ESP32",
-          "url": "https://github.com/espressif/arduino-esp32/releases/download/1.0.6/esp32-1.0.6.zip",
+          "url": "https://github.com/Lt-Dan-Git/wt32-eth01-custom/blob/main/wt32-1.0.0.zip",
           "archiveFileName": "wt32-1.0.0.zip",
           "checksum": "SHA-256:43c9d749422fc7aec1c53c59edb2857fdddaacb6779459ba227b740cd9587b75",
           "size": "49876517",
@@ -68,6 +68,9 @@
           "boards": [
             {
               "name": "ESP32 Dev Module"
+            },
+            {
+              "name": "WT32 ETH01"
             },
             {
               "name": "WEMOS LoLin32"
